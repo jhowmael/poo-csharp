@@ -1,0 +1,1 @@
+Na Aula 13, você vai criar uma classe chamada Motorista. Você colocará um atributo nela que represente um Veiculo, criando uma relação do mundo real onde o motorista está associado a um carro, e fará a união disso no programa principal.

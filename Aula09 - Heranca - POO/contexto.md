@@ -1,0 +1,1 @@
+Na Aula 09, você vai criar uma classe genérica chamada Veiculo contendo os atributos comuns como marca e modelo. Depois, fará a classe Carro herdar de Veiculo para reaproveitar todo esse código base e adicionar um atributo específico.

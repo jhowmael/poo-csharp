@@ -1,0 +1,1 @@
+Na Aula 14, você vai revisar seu código anterior para analisar o nível de dependência entre as classes. Você vai ajustar o código para que as dependências sejam recebidas via construtor, aplicando a injeção de dependência para deixar o sistema mais limpo e independente.

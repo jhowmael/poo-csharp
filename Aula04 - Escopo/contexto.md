@@ -1,0 +1,1 @@
+Em Aula03 nos iremos aprender sobre escopo, ou seja, até onde uma variavel pode ser visivel e acessada.

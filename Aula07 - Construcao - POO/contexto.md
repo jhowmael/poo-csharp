@@ -1,0 +1,1 @@
+Na Aula 07, você vai criar uma classe chamada Carro, adicionar atributos básicos como modelo e ano, e um método Ligar. Depois, no arquivo principal, vai instanciar um objeto desse carro usando a palavra new e invocar o método criado para ver o resultado na tela.

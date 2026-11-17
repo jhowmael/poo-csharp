@@ -1,0 +1,1 @@
+Na Aula 12, você vai criar uma interface chamada IEletrico definindo um contrato com um método de carregar bateria. Depois, criará uma nova classe CarroEletrico que herda de Veiculo e implementa essa interface.

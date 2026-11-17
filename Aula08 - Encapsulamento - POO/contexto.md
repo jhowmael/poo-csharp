@@ -1,0 +1,1 @@
+Na Aula 08, você vai pegar a classe Carro e mudar os atributos internos para privados. Em seguida, vai criar propriedades get e set para controlar as alterações de forma segura, impedindo, por exemplo, que a velocidade receba valores inválidos.

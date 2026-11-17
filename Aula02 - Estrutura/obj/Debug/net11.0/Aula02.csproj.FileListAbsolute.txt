@@ -1,0 +1,16 @@
+/Users/jonatan/development/estudo-csharp/Aula02/bin/Debug/net11.0/Aula02
+/Users/jonatan/development/estudo-csharp/Aula02/bin/Debug/net11.0/Aula02.deps.json
+/Users/jonatan/development/estudo-csharp/Aula02/bin/Debug/net11.0/Aula02.runtimeconfig.json
+/Users/jonatan/development/estudo-csharp/Aula02/bin/Debug/net11.0/Aula02.runtimeconfig.dev.json
+/Users/jonatan/development/estudo-csharp/Aula02/bin/Debug/net11.0/Aula02.dll
+/Users/jonatan/development/estudo-csharp/Aula02/bin/Debug/net11.0/Aula02.pdb
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.AssemblyInfoInputs.cache
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.AssemblyInfo.cs
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.csproj.CoreCompileInputs.cache
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.dll
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/refint/Aula02.dll
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.pdb
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.genruntimeconfig.cache
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/ref/Aula02.dll
+/Users/jonatan/development/estudo-csharp/Aula02/obj/Debug/net11.0/Aula02.csproj.Up2Date

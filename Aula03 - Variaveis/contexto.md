@@ -1,0 +1,1 @@
+Em Aula03 nós aprendemos a declaração de variáveis a diferença de declaração com var e ser var

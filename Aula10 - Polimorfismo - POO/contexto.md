@@ -1,0 +1,1 @@
+Na Aula 10, você vai criar um método marcado como virtual na classe pai Veiculo, como Acelerar. Depois, criará outras classes filhas e usará override em cada uma delas para mudar o comportamento desse método de acordo com o veículo.

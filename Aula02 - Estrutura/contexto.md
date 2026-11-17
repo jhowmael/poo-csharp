@@ -1,0 +1,1 @@
+Em Aula02 aprendemos a criar a estrutura utilizando o dotnet new console e a primeira concatenação de texto e variáveisß

@@ -1,0 +1,1 @@
+Em Aula01 estamos está sendo testado a class main, para iniciarmos com as demais aulas, esse é o exercicio do Olá mundo que verifica que está rodando o c#

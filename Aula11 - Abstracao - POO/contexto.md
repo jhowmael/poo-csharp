@@ -1,0 +1,1 @@
+Na Aula 11, você vai transformar a classe Veiculo em uma classe abstrata usando abstract. Você adicionará um método abstrato nela para obrigar as classes filhas a implementarem obrigatoriamente o seu próprio comportamento.

@@ -1,0 +1,1 @@
+Em Aula05 vamos aprender sobre operadores
