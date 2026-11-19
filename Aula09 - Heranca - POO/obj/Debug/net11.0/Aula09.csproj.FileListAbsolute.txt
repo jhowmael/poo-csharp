@@ -1,0 +1,17 @@
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/bin/Debug/net11.0/Aula09
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/bin/Debug/net11.0/Aula09.deps.json
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/bin/Debug/net11.0/Aula09.runtimeconfig.json
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/bin/Debug/net11.0/Aula09.runtimeconfig.dev.json
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/bin/Debug/net11.0/Aula09.dll
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/bin/Debug/net11.0/Aula09.pdb
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.AssemblyInfoInputs.cache
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.AssemblyInfo.cs
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.csproj.CoreCompileInputs.cache
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.sourcelink.json
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.dll
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/refint/Aula09.dll
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.pdb
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.genruntimeconfig.cache
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/ref/Aula09.dll
+/Users/jonatan/development/estudo-csharp/Aula09 - Heranca - POO/obj/Debug/net11.0/Aula09.csproj.Up2Date

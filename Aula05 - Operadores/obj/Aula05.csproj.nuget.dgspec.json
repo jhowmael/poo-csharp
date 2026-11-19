@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonatan/development/estudo-csharp/Aula05/Aula05.csproj": {}
+    "/Users/jonatan/development/estudo-csharp/Aula05 - Operadores/Aula05.csproj": {}
   },
   "projects": {
-    "/Users/jonatan/development/estudo-csharp/Aula05/Aula05.csproj": {
+    "/Users/jonatan/development/estudo-csharp/Aula05 - Operadores/Aula05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula05/Aula05.csproj",
+        "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula05 - Operadores/Aula05.csproj",
         "projectName": "Aula05",
-        "projectPath": "/Users/jonatan/development/estudo-csharp/Aula05/Aula05.csproj",
+        "projectPath": "/Users/jonatan/development/estudo-csharp/Aula05 - Operadores/Aula05.csproj",
         "packagesPath": "/Users/jonatan/.nuget/packages/",
-        "outputPath": "/Users/jonatan/development/estudo-csharp/Aula05/obj/",
+        "outputPath": "/Users/jonatan/development/estudo-csharp/Aula05 - Operadores/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jonatan/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,17 @@
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/bin/Debug/net11.0/Aula10
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/bin/Debug/net11.0/Aula10.deps.json
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/bin/Debug/net11.0/Aula10.runtimeconfig.json
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/bin/Debug/net11.0/Aula10.runtimeconfig.dev.json
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/bin/Debug/net11.0/Aula10.dll
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/bin/Debug/net11.0/Aula10.pdb
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.AssemblyInfoInputs.cache
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.AssemblyInfo.cs
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.csproj.CoreCompileInputs.cache
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.sourcelink.json
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.dll
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/refint/Aula10.dll
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.pdb
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.genruntimeconfig.cache
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/ref/Aula10.dll
+/Users/jonatan/development/estudo-csharp/Aula10 - Polimorfismo - POO/obj/Debug/net11.0/Aula10.csproj.Up2Date

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula02/Aula02.csproj",
+      "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula02 - Estrutura/Aula02.csproj",
       "projectName": "Aula02",
-      "projectPath": "/Users/jonatan/development/estudo-csharp/Aula02/Aula02.csproj",
+      "projectPath": "/Users/jonatan/development/estudo-csharp/Aula02 - Estrutura/Aula02.csproj",
       "packagesPath": "/Users/jonatan/.nuget/packages/",
-      "outputPath": "/Users/jonatan/development/estudo-csharp/Aula02/obj/",
+      "outputPath": "/Users/jonatan/development/estudo-csharp/Aula02 - Estrutura/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jonatan/.nuget/NuGet/NuGet.Config"

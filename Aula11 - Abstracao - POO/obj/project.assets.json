@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula07 - Construcao de objetos/Aula07.csproj",
-      "projectName": "Aula07",
-      "projectPath": "/Users/jonatan/development/estudo-csharp/Aula07 - Construcao de objetos/Aula07.csproj",
+      "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula11 - Abstracao - POO/Aula11.csproj",
+      "projectName": "Aula11",
+      "projectPath": "/Users/jonatan/development/estudo-csharp/Aula11 - Abstracao - POO/Aula11.csproj",
       "packagesPath": "/Users/jonatan/.nuget/packages/",
-      "outputPath": "/Users/jonatan/development/estudo-csharp/Aula07 - Construcao de objetos/obj/",
+      "outputPath": "/Users/jonatan/development/estudo-csharp/Aula11 - Abstracao - POO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jonatan/.nuget/NuGet/NuGet.Config"

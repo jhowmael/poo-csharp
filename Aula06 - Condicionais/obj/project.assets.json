@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula06/Aula06.csproj",
+      "projectUniqueName": "/Users/jonatan/development/estudo-csharp/Aula06 - Condicionais/Aula06.csproj",
       "projectName": "Aula06",
-      "projectPath": "/Users/jonatan/development/estudo-csharp/Aula06/Aula06.csproj",
+      "projectPath": "/Users/jonatan/development/estudo-csharp/Aula06 - Condicionais/Aula06.csproj",
       "packagesPath": "/Users/jonatan/.nuget/packages/",
-      "outputPath": "/Users/jonatan/development/estudo-csharp/Aula06/obj/",
+      "outputPath": "/Users/jonatan/development/estudo-csharp/Aula06 - Condicionais/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jonatan/.nuget/NuGet/NuGet.Config"
