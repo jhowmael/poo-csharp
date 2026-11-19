@@ -11,5 +11,4 @@ namespace Aula14
             Veiculo = veiculo;
         }
     }
-
 }
